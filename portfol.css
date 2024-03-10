@@ -227,7 +227,7 @@ transform: translateX(50%);
     background-color: var(--text-color);
     top: -20px;
     right: 0;
-    transform: translateX(50%) rotate(45deg);
+    transform: translateX(50%) rotate(46deg);
     border-radius: 2px;
 }
 
