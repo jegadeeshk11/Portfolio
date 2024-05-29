@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.3d91d266.css",
+    "main.js": "/Portfolio/static/js/main.804d2fbd.js",
+    "static/media/Jegadeesh Resume.pdf": "/Portfolio/static/media/Jegadeesh Resume.3341a3e13ad073e8b17a.pdf",
+    "static/media/Home.jpeg": "/Portfolio/static/media/Home.7ad79133821f9fbbefb8.jpeg",
+    "static/media/Bookshop.png": "/Portfolio/static/media/Bookshop.5cc84c6b39b5df557ab8.png",
+    "static/media/weather.jpg": "/Portfolio/static/media/weather.d1c606aca727c7a4dc0b.jpg",
+    "static/media/Calculator.jpg": "/Portfolio/static/media/Calculator.3c4949210963e6e8487e.jpg",
+    "index.html": "/Portfolio/index.html",
+    "main.3d91d266.css.map": "/Portfolio/static/css/main.3d91d266.css.map",
+    "main.804d2fbd.js.map": "/Portfolio/static/js/main.804d2fbd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3d91d266.css",
+    "static/js/main.804d2fbd.js"
+  ]
+}
