@@ -1,0 +1,22 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.mobile-nav{
+    @apply fixed top-10 left-0 bg-gray-700 text-white w-full h-1/4
+}
+
+.mobile-nav li{
+    @apply w-full h-full text-center border-b-2
+}
+
+.btn{
+    @apply bg-red-300 px-5 py-2  font-bold hover:border-2  border-white rounded text-black
+}
+html{
+    scroll-behavior: smooth;
+}
+.viewbtn{
+    @apply bg-yellow-400 px-5 py-2  font-bold hover:border-2  border-white rounded text-black
+}
+    
